@@ -1,0 +1,15 @@
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/obj/Debug/net7.0/ATMmachine.csproj.AssemblyReference.cache
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/obj/Debug/net7.0/ATMmachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/obj/Debug/net7.0/ATMmachine.AssemblyInfoInputs.cache
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/obj/Debug/net7.0/ATMmachine.AssemblyInfo.cs
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/obj/Debug/net7.0/ATMmachine.csproj.CoreCompileInputs.cache
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/bin/Debug/net7.0/ATMmachine
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/bin/Debug/net7.0/ATMmachine.deps.json
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/bin/Debug/net7.0/ATMmachine.runtimeconfig.json
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/bin/Debug/net7.0/ATMmachine.dll
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/bin/Debug/net7.0/ATMmachine.pdb
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/obj/Debug/net7.0/ATMmachine.dll
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/obj/Debug/net7.0/refint/ATMmachine.dll
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/obj/Debug/net7.0/ATMmachine.pdb
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/obj/Debug/net7.0/ATMmachine.genruntimeconfig.cache
+/Users/arpitjaswal/Desktop/c#/ATMmachine/ATMmachine/ATMmachine/obj/Debug/net7.0/ref/ATMmachine.dll
